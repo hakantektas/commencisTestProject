@@ -1,5 +1,5 @@
 DriverFactory/driverManager.class
 MainFunction/mainFunction.class
-PageClassPOM/homePage.class
-commencisTestProject/AppTest.class
+PageClassPOM/verifyTestCase1.class
+PageClassPOM/verifyTestCase2.class
 TestClassPOM/testCase.class
