@@ -5,7 +5,7 @@ How to do Web Automation Tests with Page Object Model, Java 1.8, Selenium 3.141.
 
 
 
-<img src="https://github.com/hakantektas/commencisTestProject/blob/main/selenium.svg" width="300" height="250">
+<img src="https://github.com/hakantektas/commencisTestProject/blob/main/selenium.svg" width="125" height="125">
 
 ## **Supports**
 
