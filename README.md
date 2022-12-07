@@ -86,7 +86,8 @@ https://github.com/bonigarcia/webdrivermanager
 
 
 
-
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
 
 
 
