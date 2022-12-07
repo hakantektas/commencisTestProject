@@ -19,6 +19,10 @@ How to do Web Automation Tests with Page Object Model, Java 1.8, Selenium 3.141.
 </tbody>
 </table>
 
+
+
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
 ## **Supports**
 
 * Selenium v3
@@ -99,8 +103,6 @@ https://github.com/bonigarcia/webdrivermanager
 
 
 
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
 
 
 
@@ -123,7 +125,7 @@ For more information on the Allure report
 [Awesome README](https://docs.qameta.io/allure/)
   
 
-  ## Optimization
+## Optimization
 
 POM is preferred to improve code maintainability and readability by setting common methods and elements to a variable.
   
@@ -131,6 +133,8 @@ POM is preferred to improve code maintainability and readability by setting comm
 
 In case of browser incompatibility with the driver that you have used locally, use an updated browser and update your driver.
 If you do not want to encounter such problems, you can use the WebDriverManager made by bonigarcia. -> https://github.com/bonigarcia/webdrivermanager
+
+
 
 
   
