@@ -4,6 +4,14 @@
 How to do Web Automation Tests with Page Object Model, Java 1.8, Selenium 3.141.59
 
 
+
+
+## **Supports**
+
+* Selenium v3
+* Page Object Model (POM) usage with Java
+* Auto generated HTML Allure test report after test
+
 This project describes how to automate web automation tests with Selenium framework in Java language. It includes an example of how to run your browser tests parametrically and how to run tests in different browsers. It is written in accordance with the Page object model design. It includes examples of how to run multiple test scenarios in different browsers at the same time with Test Suite files.
 ## Run it on your computer
 
@@ -110,8 +118,5 @@ POM is preferred to improve code maintainability and readability by setting comm
 In case of browser incompatibility with the driver that you have used locally, use an updated browser and update your driver.
 If you do not want to encounter such problems, you can use the WebDriverManager made by bonigarcia. -> https://github.com/bonigarcia/webdrivermanager
 
-## Lisans
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
   
